@@ -1,6 +1,6 @@
 function factorial(nbr){
     var i; 
-    var nbr;
+   // var nbr;
     var f = 1;
     for(i = 1; i <= nbr; i++)  
     {
