@@ -1,5 +1,5 @@
 function replaceString(){
-    let exemple ="ceci est un phrase";    
+    let exemple ="ceci est une phrase";    
     console.log(exemple.replace("est","était"));
 }
 replaceString();
