@@ -40,6 +40,11 @@ if (strokes == 1 ){
   le resultat attendu dans la console
   vas changer */
 }
+golfScore(4, 1);
+golfScore(4, 2);
+golfScore(4, 3);
+golfScore(4, 4);
+golfScore(1, 1);
 golfScore(5, 5);
 
 module.exports = golfScore;
